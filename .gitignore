@@ -1,0 +1,10 @@
+*.key
+*.req
+*.cer
+*.txt
+*.pem
+*.csr
+*.crt
+*.p7b
+*.p12
+*.pfx
